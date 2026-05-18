@@ -13,6 +13,7 @@ Gain hands-on experience in designing ER diagrams that represent database struct
 # Scenario A: City Fitness Club Management
 
 **Name:** Manickam Subbu
+
 **Reg. No.:** 212223060147
 
 **Business Context:**
